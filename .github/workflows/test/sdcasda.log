@@ -1,1 +1,1 @@
-adsdasda
+adsdasda: ${{ test_var }}
